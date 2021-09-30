@@ -1,2 +1,2 @@
 Heidi Wiseman
-I'm from Bountiful Utah. I like to read. 
+I'm from Utah and I like to be outside. 
