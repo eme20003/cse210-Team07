@@ -1,6 +1,7 @@
 # Add import statements from your individual python file here.
 import cornia
 import wiseman
+import emerson
 
 print("Welcome to our collaborative program.")
 
@@ -17,3 +18,5 @@ wiseman.print_greeting()
 
 
 # Print greeting from Daniel.
+
+emerson.emerson_greeting()
