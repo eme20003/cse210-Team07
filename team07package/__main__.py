@@ -2,6 +2,7 @@
 import cornia
 import morgan
 import wiseman
+import emerson
 
 print("Welcome to our collaborative program.")
 
@@ -18,3 +19,5 @@ wiseman.print_greeting()
 morgan.print_m_greeting()
 
 # Print greeting from Daniel.
+
+emerson.emerson_greeting()
